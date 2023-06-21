@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <div>Github action test</div>
+      <div>test</div>
     </>
   )
 }
